@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://youtube-downloader.onrender.com/sitemap.xml
+
+# Disallow unnecessary paths
+Disallow: /api/
+Disallow: /test.html
+
+# Allow important pages
+Allow: /
+Allow: /favicon.ico
+Allow: /site.webmanifest

@@ -1,0 +1,49 @@
+{
+    "name": "YouTube Downloader - ดาวน์โหลดวิดีโอฟรี",
+    "short_name": "YT Downloader",
+    "description": "ดาวน์โหลดวิดีโอ YouTube เป็น MP4 และแยกเสียง MP3 ฟรี คุณภาพสูงถึง 4K",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#667eea",
+    "theme_color": "#667eea",
+    "categories": ["utilities", "multimedia"],
+    "lang": "th",
+    "icons": [
+        {
+            "src": "/favicon.ico",
+            "sizes": "16x16 32x32 48x48",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/favicon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/favicon-192x192.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/favicon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
